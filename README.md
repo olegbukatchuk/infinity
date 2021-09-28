@@ -1,3 +1,4 @@
 # infinity
 
-![devops](./assets/infinity.png)
+| ![devops](./assets/infinity.png) |
+| :--: |
